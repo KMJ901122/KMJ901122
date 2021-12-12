@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Min-Jae Kwon. You can call me MJ.
-- 👀 I’m interested in Machine Learning especially, Reinforcement Learning (RL) and Meta Learning. I want to be a good researcher in RL. My main interests in RL lie on eXplainable RL (XRL), generalizations in RL, Meta RL and RL for finance. Actually, I started to learn XRL this December and found it is very interesting. Generalisation in RL is also an interesting topic I faced while studying RL for finance. 
+- 👀 I want to be a good researcher in RL. I’m interested in Machine Learning especially, Reinforcement Learning (RL) and Meta Learning.  
+
+  My main interests in RL lie on eXplainable RL (XRL), generalizations in RL, Meta RL and RL for finance. Actually, I started to learn XRL this December and found it is very interesting. Generalisation in RL is also an interesting topic I faced while studying RL for finance. 
 
   I was majored in Mathematics and had studied Mathematics for almost 8 years (Undergraduate, Graduate) before I started to learn Machine Learning from late 2019. I have a strong mathmatical background. The courses I took include Linear Algebra, Analysis, Complex Analysis, Probability, Measure Theory, Abstract Algebra, Graph Theory, Differential Geometry, Differential Equations, Algebraic Geometry, Combinatorics and extra. 
   
