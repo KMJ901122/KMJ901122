@@ -7,7 +7,7 @@
   
   I finished basic concepts of Machine Learning through books like Bishop: Pattern Recognition and Machine Learning, Ian Goodfellow et al: Deep Learning, Sutton & Barto: Reinforcement Learning, and Géron, Aurélien: Hands on Machine Learning. 
   
-  In terms of RL, I have been reading classic papers by Degris, Sutton, Munos, Abbeel, Haarnoja, Levine, Schulman, Precup, Kakade, Tsitsiklis, Conda and extra. 
+  In terms of RL, I read classic papers by Degris, Sutton, Munos, Abbeel, Haarnoja, Levine, Schulman, Precup, Kakade, Tsitsiklis, Conda and extra. 
   
   I learned and implemented famous RL algorithm like PPO, DQN, DDQN, TD3, Vanilla, and Actor-Critic based methods, experimenting with Atari, Mujoco Enviroments and Custom environments (mainly for stock market applications) as well.
 
